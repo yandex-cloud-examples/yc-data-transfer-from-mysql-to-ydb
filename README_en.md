@@ -1,0 +1,3 @@
+# Migrating data from a Yandex Managed Service for MySQL cluster to Yandex Managed Service for YDB through Yandex Data Transfer
+
+With [Data Transfer](https://yandex.cloud/en/docs/data-transfer), you can transfer a database from a [Managed Service for MySQL](https://yandex.cloud/en/docs/managed-mysql) cluster to [Managed Service for YDB](https://yandex.cloud/en/docs/ydb). See [this tutorial](https://yandex.cloud/en/docs/data-transfer/tutorials/managed-mysql-to-ydb) to learn how to set up the solution with Terraform. This repository contains the configuration file you will need: [data-transfer-mmy-ydb.tf](data-transfer-mmy-ydb.tf).
